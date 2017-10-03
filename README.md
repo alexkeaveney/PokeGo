@@ -1,8 +1,8 @@
 # PokeGo
 Clone of the popular game pokemon go
 
-![alt tag](https://github.com/alexkeaveney/PokeGo/blob/master/poke1.png)
-![alt tag](https://github.com/alexkeaveney/PokeGo/blob/master/poke2.png)
+![alt tag](https://github.com/alexkeaveney/PokeGo/blob/master/poke1.PNG)
+![alt tag](https://github.com/alexkeaveney/PokeGo/blob/master/poke2.PNG)
 
 ## Getting Started
 
